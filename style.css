@@ -1,6 +1,10 @@
 body{
     background: #FEBB41
 }
+button{
+    border:none;
+background:none;
+}
 .wrapper{
 width: 1511px;
 height: 886px;
@@ -11,4 +15,28 @@ display: block;
 margin: auto;
 margin-top: 100 px;
 padding: 48px 87px;
+}
+.logo_button{
+    color: #000000;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 139.8%; /* 44.736px */
+border:none;
+background: none;
+cursor: pointer;
+}
+.nav{
+  display: inline-block;
+}
+.nav_elem{
+    color: #000;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 94.8%; /* 20.856px */
+cursor: pointer;
+display: inline-block;
 }
