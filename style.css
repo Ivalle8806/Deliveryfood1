@@ -1,0 +1,14 @@
+body{
+    background: #FEBB41
+}
+.wrapper{
+width: 1511px;
+height: 886px;
+border-radius: 24px;
+border-radius: 24px;
+background: linear-gradient(305deg, #F4ECE1 57.1%, #FCFBF7 145.5%);
+display: block;
+margin: auto;
+margin-top: 100 px;
+padding: 48px 87px;
+}
